@@ -16,6 +16,6 @@ jobs:
         with:
          
           cx_tenant: wilson
-          base_uri: https://ast.checkmarx.net/
+          base_uri: https://anz.ast.checkmarx.net/
           cx_client_id: ${{ secrets.CX_CLEINT_ID }}
           cx_client_secret: ${{ secrets.CX_CLEINT_SECRET }}
